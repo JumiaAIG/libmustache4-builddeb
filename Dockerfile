@@ -5,7 +5,7 @@ MAINTAINER Marcelo Almeida <marcelo.almeida@jumia.com>
 WORKDIR "/root"
 
 ENV DEBIAN_FRONTEND noninteractive
-ENV VERSION 0.4.2
+ENV VERSION 0.4.3
 
 # INSTALL BUILDER DEPENDENCIES
 RUN apt-get update && apt-get install -y --no-install-recommends \
