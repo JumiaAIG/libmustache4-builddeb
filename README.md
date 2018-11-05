@@ -1,10 +1,4 @@
-# Buildtask for libmustache
-
-[![Build Status](https://travis-ci.org/marceloalmeida/libmustache4-builddeb.svg?branch=master)](https://travis-ci.org/marceloalmeida/libmustache4-builddeb)
-
-Task to build Debian packages libmustache.
-
-
+This is a dependency to compile the mustache PHP extension. Workflow originally implemented by Marcelo Almeida.
 ## Usage
 
 ```sh
